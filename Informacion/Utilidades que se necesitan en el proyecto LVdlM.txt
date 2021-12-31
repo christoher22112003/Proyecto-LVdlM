@@ -1,0 +1,10 @@
+Programas
+1.	Unity HUB 3.0.0-beta.6
+    a.	Utilidades las cuales se necesitan instaladas en el proyecto
+        i.	2020.3.24f1 (Version del unity editor)
+1.	Visual Studio Community 2019
+2.	Universal Windows Platform Buil Support
+3.	Windows Build Support (IL2CPP)
+2.	Git bash
+3.	Git hub desktop
+4.	Visual studio code beta (Siempre la versión más resiente)
